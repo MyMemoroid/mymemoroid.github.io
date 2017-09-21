@@ -2,14 +2,14 @@
 
 #Group Members
 
-*-Marino Vethanayagam*
+**-Marino Vethanayagam**
 
-*-Anthony Aoun*
+**-Anthony Aoun**
 
-*-Abbey LK*
+**-Abbey LK**
 
-*-Declan McMullen*
+**-Declan McMullen**
 
-*-Khalid Ahmed*
+**-Khalid Ahmed**
 
 
