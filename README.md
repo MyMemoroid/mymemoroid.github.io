@@ -16,7 +16,7 @@ Everyone captures moments using their devices. Selfies, pictures, etc. Memories 
 
 - **abbeykerkmann** - **Abbey Kerkmann** - https://github.com/abbeykerkmann
 - **anthonyaoun23** - **Anthony Aoun** - https://github.com/anthonyaoun23
-- **DMcMu** - Declan **McMullen** - https://github.com/DMcMu
+- **DMcMu** - **Declan McMullen** - https://github.com/DMcMu
 - **kahme022** - **Khalid Ahmed** - https://github.com/kahme022
 - **MVethana** - **Marino Vethanayagam** - https://github.com/MVethana
 
