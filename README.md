@@ -1,7 +1,5 @@
 # My-Memoroid
 
------
-
 **My Memoroid**
 
 Everyone captures moments using their devices. Selfies, pictures, etc. Memories and experiences are stored on our devices. MyMemoroid is a solution to turn memories into something real, something physical. How? Polaroids. Turn your memories into Polaroids using our web service or kiosks located at popular attractions.
