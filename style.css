@@ -1,0 +1,85 @@
+body {
+  margin:0;
+  font-family: 'Questrial', sans-serif;
+  background-color: #211916;
+}
+
+.clear-floats {
+  clear:both;
+}
+
+.container {
+  max-width:960px;
+  width:calc(100% - 20px);
+  padding:0 10px;
+  margin:0 auto;
+}
+
+.header {
+  background:#1E120E;
+}
+
+.header .logo {
+  float:left;
+  width:20%;
+}
+
+.header .logo img {
+  height:35px;
+}
+
+.header .navigation {
+  float:right;
+  width:80%;
+  text-align:right;
+}
+
+.header a {
+  color:white;
+  display:inline-block;
+  padding:20px 10px;
+  margin:0 10px;
+  text-decoration:none;
+  height: 35px;
+  line-height: 35px
+}
+
+a.button {
+  display:inline-block;
+  background:#72687F;
+  padding:10px 20px;
+  border-radius:5px;
+  text-decoration:none;
+  color:white;
+}
+
+.information {
+	color:white;
+	width:calc(100% - 20px);
+	text-align: center;
+	display:inline-block;
+}
+.information .light {
+  background-color: #ffffff;
+  color: black;
+}
+.information .dark {
+  color: white;
+}
+.information .highlight {
+  font-family: 'Lato', sans-serif;
+  font-style: lighter;
+  font-size: 35px;
+}
+
+.information .emphasize {
+  font-family: 'Lato', sans-serif;
+  font-style: bold;
+  font-size: 50px;
+  padding: 30px
+}
+
+.information .content {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
