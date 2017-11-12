@@ -23,7 +23,7 @@ body, html{
 
 .img-2 {
   background-image: url("images/soragrit-wongsa-311182.jpg");
-  min-height: 500px;
+  min-height: 100%;
 }
   
 .img-3 {
@@ -33,7 +33,7 @@ body, html{
 
 .img-4 {
  background-image: url("images/iwan-334323.jpg");
- min-height: 500px;
+ min-height: 100%;
 }
 
 .img-5 {
