@@ -1,9 +1,46 @@
-body {
+body, html{
+  height: 100%;
   margin:0;
   font-family: 'Questrial', sans-serif;
-  background-color: #211916;
+  background-color: #000000;
 }
 
+.img-1, .img-2, .img-3, .img-4, .img-5 {
+
+  position: relative;
+  opacity: 0.7;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.img-1 {
+  background-image: url("images/ian-dooley-280928.jpg");
+  min-height: 100%;
+}
+
+.img-2 {
+  background-image: url("images/soragrit-wongsa-311182.jpg");
+  min-height: 500px;
+}
+  
+.img-3 {
+ background-image: url("images/rawpixel-com-267062.jpg");
+ min-height: 100%;
+}
+
+.img-4 {
+ background-image: url("images/iwan-334323.jpg");
+ min-height: 500px;
+}
+
+.img-5 {
+ background-image: url("images/pineapple-supply-co-253178.jpg");
+ min-height: 100%;
+}
+  
 .clear-floats {
   clear:both;
 }
@@ -16,7 +53,7 @@ body {
 }
 
 .header {
-  background:#1E120E;
+  background:#191919;
 }
 
 .header .logo {
@@ -45,41 +82,45 @@ body {
 }
 
 a.button {
-  display:inline-block;
-  background:#72687F;
-  padding:10px 20px;
-  border-radius:5px;
+  display: inline-block;
+  background: #72687F;
+  padding: 10px 20px;
+  border-radius: 5px;
   text-decoration:none;
-  color:white;
-}
-
-.information {
-	color:white;
-	width:calc(100% - 20px);
-	text-align: center;
-	display:inline-block;
-}
-.information .light {
-  background-color: #ffffff;
-  color: black;
-}
-.information .dark {
   color: white;
 }
-.information .highlight {
-  font-family: 'Lato', sans-serif;
-  font-style: lighter;
-  font-size: 35px;
+
+.centered {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000000;
+  opacity: 0.9
 }
 
-.information .emphasize {
-  font-family: 'Lato', sans-serif;
-  font-style: bold;
-  font-size: 50px;
-  padding: 30px
+.centered span.border {
+  border-style: solid;
+  border-width: 3px;
+  border-color: #111111;
+  background: white;
+  color: #000000;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
 }
-
-.information .content {
-  font-family: 'Lato', sans-serif;
+.information {
+  color: black;
+  font-weight: bold;
   font-size: 30px;
+}
+
+.centeredcontent {
+  position: absolute;
+  left: 0;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+  color: #000;
 }
