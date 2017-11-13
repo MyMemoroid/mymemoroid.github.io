@@ -19,10 +19,10 @@
 
 ### These are our color swatches:
 
-- \#211916
+- \#515151
 - \#FFFFFF
-- \#1E120E
 - \#000000
+- Most of the visual appeal will come from parallax background images
 
 -----
 
@@ -42,8 +42,8 @@
 
 ## Links
 
-- Links will be bolded and underlined with a color which contrasts the background.
-- The link will change colour when hovered over with the mouse
+- Links will be underlined with a color which contrasts the background.
+- The link will not change color
 
 -----
 
