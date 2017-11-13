@@ -5,7 +5,7 @@ body, html{
   background-color: #ffffff;
 }
 
-.img-1, .img-2, .img-3, .img-4, .img-5 {
+.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8 {
 
   position: relative;
   background-attachment: fixed;
@@ -36,7 +36,22 @@ body, html{
 }
 
 .img-5 {
- background-image: url("images/pineapple-supply-co-253178.jpg");
+ background-image: url("images/rachael-crowe-62006.jpg");
+ min-height: 100%;
+}
+
+.img-6 {
+ background-image: url("images/lian-jonkman-101457.jpg");
+ min-height: 100%;
+}
+
+.img-7 {
+ background-image: url("images/pineapple-supply-co-100584.jpg");
+ min-height: 100%;
+}
+
+.img-8 {
+ background-image: url("images/ian-dooley-281846.jpg");
  min-height: 100%;
 }
   
@@ -119,6 +134,7 @@ a.button {
   position: absolute;
   left: 0;
   top: 40%;
+  height: 100%;
   width: 100%;
   text-align: center;
   color: #000;
@@ -151,15 +167,6 @@ a.button {
   1px 1px 0 #000000;  
 }
 
-.shadow {
-  color: black;
-  text-shadow:
-  -1px -1px 0 #0c0c0c,
-  1px -1px 0 #0c0c0c,
-  -1px 1px 0 #0c0c0c,
-  1px 1px 0 #0c0c0c;  
-}
-
 .photo {
   display: block;
   margin: 0 auto;
@@ -168,4 +175,16 @@ a.button {
 .social {
   text-align:center;
   position: relative;
+}
+
+.footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 16px;
+  background-color: #000000;
+  text-align: right;
+  color: white;
+  text-decoration: none;
 }
