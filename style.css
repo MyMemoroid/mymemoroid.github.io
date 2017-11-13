@@ -193,3 +193,22 @@ a.button {
   color:white;
   display:inline-block;
   padding: 2px
+}
+
+.footerpricing {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 8px;
+  background-color: #000000;
+  text-align: right;
+  color: white;
+  text-decoration: none;
+}
+
+.footerpricing a {
+  color:white;
+  display:inline-block;
+  padding: 2px
+}
