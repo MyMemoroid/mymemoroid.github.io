@@ -35,7 +35,7 @@
 
 ## Typography
 
-- We will be using the Questrial and Lato fonts from Google Fonts.
+- We will be using the Questrial font from Google Fonts.
 - The bold, light and heavy styles will be used.
 
 -----
