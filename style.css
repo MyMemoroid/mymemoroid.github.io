@@ -130,7 +130,7 @@ a.button {
   border-color: black;
   background: white;
   color: black;
-  padding: 15px;
+  padding: 10px;
   font-size: 25px;
   letter-spacing: 5px;
 }
@@ -152,10 +152,16 @@ a.button {
 }
 
 .shadow {
-	color: black;
+  color: black;
   text-shadow:
   -1px -1px 0 #0c0c0c,
   1px -1px 0 #0c0c0c,
   -1px 1px 0 #0c0c0c,
   1px 1px 0 #0c0c0c;  
+}
+
+.photo {
+  display: block;
+  margin: 0 auto;
+
 }
