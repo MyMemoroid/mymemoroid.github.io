@@ -8,7 +8,6 @@ body, html{
 .img-1, .img-2, .img-3, .img-4, .img-5 {
 
   position: relative;
-  opacity: 0.7;
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -103,16 +102,16 @@ a.button {
 .centered span.border {
   border-style: solid;
   border-width: 3px;
-  border-color: #111111;
+  border-color: black;
   background: white;
-  color: #000000;
+  color: black;
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
 }
+
 .information {
   color: black;
-  font-weight: bold;
   font-size: 30px;
 }
 
@@ -123,4 +122,39 @@ a.button {
   width: 100%;
   text-align: center;
   color: #000;
+}
+
+.centeredcontent span.bordered {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  background: white;
+  color: black;
+  padding: 15px;
+  font-size: 25px;
+  letter-spacing: 5px;
+}
+
+.highlight {
+  font-weight: bold;
+	
+}	
+.size35 {
+  font-size: 35px;
+}
+.white {
+  color: white;
+  text-shadow:
+  -1px -1px 0 #000000,
+  1px -1px 0 #000000,
+  -1px 1px 0 #000000,
+  1px 1px 0 #000000;  
+}
+
+.shadow {
+  text-shadow:
+  -1px -1px 0 #0c0c0c,
+  1px -1px 0 #0c0c0c,
+  -1px 1px 0 #0c0c0c,
+  1px 1px 0 #0c0c0c;  
 }
