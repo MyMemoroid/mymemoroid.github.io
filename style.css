@@ -97,7 +97,7 @@ body, html{
 
 a.button {
   display: inline-block;
-  background: #72687F;
+  background: #ffffff;
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration:none;
@@ -182,9 +182,14 @@ a.button {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 16px;
+  padding: 8px;
   background-color: #000000;
   text-align: right;
   color: white;
   text-decoration: none;
 }
+
+.footer a {
+  color:white;
+  display:inline-block;
+  padding: 2px
