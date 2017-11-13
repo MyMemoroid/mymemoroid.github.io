@@ -19,10 +19,10 @@
 
 ### These are our color swatches:
 
-- \#211916
+- \#515151
 - \#FFFFFF
-- \#1E120E
 - \#000000
+- Most of the visual appeal will come from parallax background images
 
 -----
 
@@ -35,15 +35,15 @@
 
 ## Typography
 
-- We will be using the Questrial and Lato fonts from Google Fonts.
+- We will be using the Questrial font from Google Fonts.
 - The bold, light and heavy styles will be used.
 
 -----
 
 ## Links
 
-- Links will be bolded and underlined with a color which contrasts the background.
-- The link will change colour when hovered over with the mouse
+- Links will be underlined with a color which contrasts the background.
+- The link will not change color
 
 -----
 
