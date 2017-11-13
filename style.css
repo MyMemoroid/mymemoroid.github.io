@@ -163,5 +163,9 @@ a.button {
 .photo {
   display: block;
   margin: 0 auto;
+}
 
+.social {
+  text-align:center;
+  position: relative;
 }
