@@ -5,7 +5,7 @@ body, html{
   background-color: #ffffff;
 }
 
-.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8 {
+.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9 {
 
   position: relative;
   background-attachment: fixed;
@@ -54,7 +54,12 @@ body, html{
  background-image: url("images/ian-dooley-281846.jpg");
  min-height: 100%;
 }
-  
+
+.img-9 {
+ background-image: url("images/nik-macmillan-309702.jpg");
+ min-height: 100%;
+}
+
 .clear-floats {
   clear:both;
 }
@@ -211,4 +216,22 @@ a.button {
   color:white;
   display:inline-block;
   padding: 2px
+}
+
+.pricingouter {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.pricingmiddle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.pricinginner {
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100%
 }
