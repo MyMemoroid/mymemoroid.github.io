@@ -152,6 +152,7 @@ a.button {
 }
 
 .shadow {
+	color: black;
   text-shadow:
   -1px -1px 0 #0c0c0c,
   1px -1px 0 #0c0c0c,
